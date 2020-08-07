@@ -1,0 +1,4 @@
+Api Docs:
+    https://indipl2020.herokuapp.com/swagger-ui.html#/
+Reference: 
+    https://niranjan-ipl.firebaseapp.com/analyse
